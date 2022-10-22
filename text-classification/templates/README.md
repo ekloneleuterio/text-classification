@@ -1,6 +1,31 @@
+# About Tensorflow text-classification stack
 
-## Jinja
+# text-classification stack
+Stack of Deep Learning - Text Classification - using Tensorflow API
 
-You can use jinja to make a template-data folder more dynamic.
+## Objective
+* This stack is focused on the template for the first steps using tensorflow development.
 
-complete documentation of jinja: https://jinja.palletsprojects.com/en/3.0.x/templates/
+## Prerequisites
+- Programming Language: Python :snake:
+- Library: tensorflow
+
+
+### Python
+- Python installation and configuration is required, which can be obtained from the following link: https://www.python.org/downloads/
+
+
+
+## How to use
+
+### Install Commands
+
+```bash
+python -m venv venv
+. ./venv/Scripts/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+  
+```
+

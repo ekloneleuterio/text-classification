@@ -1,0 +1,9 @@
+name: text-classification
+description: Deep Learning Text Classification Template using keras
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name

@@ -5,6 +5,8 @@ Stack of Deep Learning - Text Classification - using Tensorflow API
 
 ## Objective
 * This stack is focused on the template for the first steps using tensorflow development.
+* This is stack will load a tensorflow code that is ready to start your deep learning text classification project with needed steps.
+* This project is focused on text classification. It can be used to determine with some phrase is related to one subject or another. In this example, we are using movies rating to classificate as "positive" or "negative" review. Adapt as you need.
 
 ## Prerequisites
 - Programming Language: Python :snake:
